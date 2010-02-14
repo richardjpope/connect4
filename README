@@ -24,7 +24,7 @@ columns = connect4.get_column_names()
 rows = connect4.get_row_names()
 data = connect4.get_matrix()
 
-3) Return a list of available search terms (currently only google):
+3) Return a list of available search types (currently only google):
 
 connect4 = Connect4()                
 connect4.list_search_types()
